@@ -6,7 +6,7 @@ const styleScript = Style_Script({ subsets: ["latin"], weight: "400" });
 
 const Navbar = () => {
   return (
-    <div className="pt-12 flex justify-between items-center">
+    <div className="pt-4 flex justify-between items-center">
       <div className="max-h-[48px] rounded-full bg-red-400">
         <img className="max-h-[48px] rounded-full" src="Logo.jpg" alt="" />
       </div>
