@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="max-h-[48px] bg-red-400">
         <img className="object-contain" src="Logo.jpg" alt="" />
       </div>
-      <div className={`${styleScript.className} + text-6xl text-[#A11055]`}>
+      <div className={`${styleScript.className} + text-2xl text-[#A11055]`}>
         Dulcet Cupcakes
       </div>
       <div className="h-[48px] w-[48px]">
