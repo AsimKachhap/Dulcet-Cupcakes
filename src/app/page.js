@@ -2,6 +2,7 @@ import Image from "next/image";
 import Navbar from "@/components/Navbar";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import { Inter } from "next/font/google";
+import ProductCard from "@/components/ProductCard";
 
 const jakarta = Plus_Jakarta_Sans({
   weight: "700",
@@ -38,6 +39,15 @@ export default function Home() {
         <div className="mt-4 text-[#F8DAE8] font-semibold inline-block rounded-md  bg-[#A11055] px-8 py-2 w-contain ">
           <button>GET YOURS NOW</button>
         </div>
+      </section>
+
+      <section className="grid grid-cols-2 gap-2 mt-8">
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
+        <ProductCard />
       </section>
     </main>
   );
