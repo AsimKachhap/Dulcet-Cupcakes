@@ -14,7 +14,7 @@ const Navbar = () => {
         Dulcet Cupcakes
       </div>
       <div className="h-[24px] w-[24px] ">
-        <FiMenu className="text-[#A11055]  h-[48px] w-[48px]" />
+        <FiMenu className="text-[#A11055]  h-[24px] w-[24px]" />
       </div>
     </div>
   );
