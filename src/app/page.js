@@ -41,7 +41,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="grid grid-cols-2 gap-2 mt-8">
+      <section className="grid grid-cols-1 md:grid-cols-4 gap-2 mt-8">
         <ProductCard />
         <ProductCard />
         <ProductCard />
