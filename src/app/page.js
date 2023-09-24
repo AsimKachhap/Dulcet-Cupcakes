@@ -25,13 +25,13 @@ export default function Home() {
       </section>
       <section className=" mt-8">
         <div
-          className={`${jakarta.className} + text-black text-3xl font-bold leading-none`}
+          className={`${jakarta.className} + text-black text-2xl font-bold leading-none`}
         >
           Cherish your Special Occasion with customized Cakes from Dulcet
           Cupcakes.
         </div>
         <div
-          className={`${inter.className} + text-slate-600 text-2xl tracking-wide mt-6`}
+          className={`${inter.className} + text-slate-600  tracking-wide mt-6`}
         >
           We provide customized cake for every occasion in and around Ranchi,
           Jharkhand.

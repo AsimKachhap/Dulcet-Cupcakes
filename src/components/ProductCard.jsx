@@ -17,6 +17,12 @@ const ProductCard = () => {
         </div>
         <p>Feshly made cake at home with love. Customize it the way you like</p>
       </div>
+
+      <div>
+        <button className="bg-[#A11055] text-2xl px-4 py-2 text-[#F8DAE8] drop-shadow">
+          Order Now
+        </button>
+      </div>
     </div>
   );
 };

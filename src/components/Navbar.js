@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className={`${styleScript.className} + text-2xl text-[#A11055]`}>
         Dulcet Cupcakes
       </div>
-      <div className="h-[48px] w-[48px] ">
+      <div className="h-[24px] w-[24px] ">
         <FiMenu className="text-[#A11055]  h-[48px] w-[48px]" />
       </div>
     </div>
